@@ -1,0 +1,16 @@
+{
+  "name": "emulate-bug",
+  "version": "1.0.0",
+  "description": "Emulate BUG",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Lodato Luciano",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "request": "^2.75.0"
+  }
+}
