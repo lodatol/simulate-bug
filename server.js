@@ -13,6 +13,6 @@ app.get('/', (req, res) => {
 })
 
 app.listen(8888, () => {
-	console.log('Example app listening on port 3000!')
+	console.log('Example app listening on port 8888!')
 })
 
